@@ -1,0 +1,93 @@
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\bin\Release\MAIL_PR.exe.config
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\bin\Release\MAIL_PR.exe
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\bin\Release\MAIL_PR.pdb
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\MAIL_PR.Properties.Resources.resources
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\MAIL_PR.exe
+C:\Users\user o.O\Desktop\MAIL_PR\MAIL_PR\obj\Release\MAIL_PR.pdb
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.exe
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.pdb
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\bin\Release\AppooProjectClasses.dll
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\bin\Release\AppooProjectClasses.pdb
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.exe
+C:\Users\user o.O\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+D:\Dropbox\VS Projects\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProject.exe
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+D:\Dropbox\VS Projects\AppooProject\AppooProject\bin\Release\AppooProject.exe
+D:\Dropbox\VS Projects\AppooProject\AppooProject\bin\Release\AppooProject.pdb
+D:\Dropbox\VS Projects\AppooProject\AppooProject\bin\Release\AppooProjectClasses.dll
+D:\Dropbox\VS Projects\AppooProject\AppooProject\bin\Release\AppooProjectClasses.pdb
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+D:\Dropbox\VS Projects\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.exe
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.exe
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\bin\Release\AppooProject.pdb
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\bin\Release\AppooProjectClasses.dll
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\bin\Release\AppooProjectClasses.pdb
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+C:\Users\Adrian Curechi\Desktop\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\Adrian Curechi\Desktop\UTM\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\Adrian Curechi\Desktop\UTM\AppooProject\AppooProject\obj\Release\AppooProject.exe
+C:\Users\Adrian Curechi\Desktop\UTM\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.exe
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.exe
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.pdb
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\bin\Release\AppooProjectClasses.dll
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\bin\Release\AppooProjectClasses.pdb
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\Adrian Curechi\Desktop\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.exe.config
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.exe
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.pdb
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.exe
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\bin\Release\AppooProject.pdb
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\bin\Release\AppooProjectClasses.dll
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\bin\Release\AppooProjectClasses.pdb
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csprojResolveAssemblyReference.cache
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+F:\BackUP\MEGAsync\APPOO\AppooProject\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.Cache
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\bin\Release\AppooProject.exe
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\bin\Release\AppooProject.pdb
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\bin\Release\AppooProjectClasses.dll
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\bin\Release\AppooProjectClasses.pdb
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csprojAssemblyReference.cache
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.cache
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.CopyComplete
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProject.exe
+C:\Users\Sergiu-PC\Desktop\Univer\2semestru\PR\MailProject-master\AppooProject\obj\Release\AppooProject.pdb
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\bin\Release\AppooProject.exe.config
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\bin\Release\AppooProject.exe
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\bin\Release\AppooProject.pdb
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\bin\Release\AppooProjectClasses.dll
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\bin\Release\AppooProjectClasses.pdb
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csprojAssemblyReference.cache
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.MyMailClient.resources
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProject.Properties.Resources.resources
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.GenerateResource.cache
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProjectInterface.csproj.CopyComplete
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProject.exe
+C:\Users\Cristian\OneDrive - Technical University of Moldova\WindowsPC\Desktop\MailProject-master\AppooProject\obj\Release\AppooProject.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NI.Email.Mime</id>
+    <version>1.8.1.0</version>
+    <title>NI.Email.Mime</title>
+    <authors>NewtonIdeas</authors>
+    <owners>NewtonIdeas</owners>
+    <licenseUrl>http://www.mime4.net/full-source-code-license</licenseUrl>
+    <projectUrl>http://www.mime4.net/</projectUrl>
+    <iconUrl>http://www.mime4.net/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Email (MIME) parser and composer component that 100% compatible with RFC822 and MIME standards. Supports field encoding/decoding, attachment extraction, SMTP, extra large messages, infinite MIME streams. Ideal for custom spam filters, automatic emails processing, mail servers.
+	
+This is FREE community version of Mime4Net component for non-commercial usage only. NOTE: ASP.NET projects require FREE license key for each non-localhost domain name (key generation link: http://www.mime4.net/download-free).</description>
+    <releaseNotes />
+    <copyright>Copyright 2014 NewtonIdeas.com</copyright>
+    <language />
+    <tags>MIME Parsing Email MHTML RFC822 RFC2045 RFC2557</tags>
+  </metadata>
+</package>
